@@ -103,6 +103,6 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/-/blob/main/Tutorial%204:%20Edit%20Data.md)
+[<< Prev](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/blob/main/Tutorial%204_%20Edit%20Data.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/-/blob/main/Tutorial%206:%20Table%20Filtering.md)
+[Next >>](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/blob/main/Tutorial%206_%20Table%20Filtering.md)
