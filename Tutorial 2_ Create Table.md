@@ -111,6 +111,6 @@ npm run dev
 ```
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/-/blob/main/Tutorial%201:%20Setup%20Nuxt3%20+%20Bootstrap5.md)
+[<< Prev](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/blob/main/Tutorial%201_%20Setup%20Nuxt3%20+%20Bootstrap5.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/-/blob/main/Tutorial%203:%20Create%20Data.md)
+[Next >>](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/blob/main/Tutorial%203_%20Create%20Data.md)
