@@ -3,4 +3,4 @@
 Get started with Nuxt and Bootstrap [Click here](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-bootstrap5)
 
 #
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/-/blob/main/Tutorial%202:%20Create%20Table.md)
+[Next >>](https://github.com/ajmalnorshawali/crud-multipages-nuxt3-bootstrap5/blob/main/Tutorial%202_%20Create%20Table.md)
